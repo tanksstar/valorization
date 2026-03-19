@@ -29,7 +29,7 @@ export function Hero() {
 
           <div className="flex flex-wrap gap-4">
             <Button size="lg" className="text-base px-8" asChild>
-              <Link to="/dashboard">
+              <Link to="/auth">
                 Get Started <ArrowRight className="ml-2 h-5 w-5" />
               </Link>
             </Button>
