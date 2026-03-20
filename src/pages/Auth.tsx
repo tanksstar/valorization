@@ -30,9 +30,9 @@ const Auth = () => {
       <div className="absolute inset-0 bg-gradient-to-br from-primary/5 via-background to-secondary/5" />
       <div className="relative z-10 w-full max-w-md">
         <div className="flex items-center justify-center gap-2 mb-8">
-          <Leaf className="h-8 w-8 text-primary" />
+          <Recycle className="h-8 w-8 text-primary" />
           <span className="font-bold text-2xl text-foreground">
-            Agro<span className="text-primary">Cycle</span> AI
+            Harvest<span className="text-primary">Cycle</span>
           </span>
         </div>
 
