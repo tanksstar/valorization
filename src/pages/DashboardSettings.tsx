@@ -28,7 +28,7 @@ const DashboardSettings = () => (
             </div>
             <div className="space-y-2">
               <Label>Email</Label>
-              <Input defaultValue="abebe@agrocycle.ai" />
+              <Input defaultValue="abebe@harvestcycle.com" />
             </div>
           </div>
           <div className="space-y-2">
