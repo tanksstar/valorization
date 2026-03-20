@@ -11,7 +11,7 @@ export function Hero() {
       <div className="absolute bottom-0 left-0 w-[400px] h-[400px] rounded-full bg-secondary/5 blur-3xl" />
 
       <div className="container mx-auto px-4 relative z-10 pt-20">
-        <div className="max-w-3xl">
+        <div className="max-w-3xl mx-auto text-center">
           <div className="inline-flex items-center gap-2 bg-primary/10 text-primary px-4 py-1.5 rounded-full text-sm font-medium mb-6">
             <Recycle className="h-4 w-4" />
             Smart Circular Agriculture
@@ -22,12 +22,12 @@ export function Hero() {
             <span className="text-primary">Renewable Value</span>
           </h1>
 
-          <p className="text-lg sm:text-xl text-muted-foreground mb-8 max-w-2xl leading-relaxed">
+          <p className="text-lg sm:text-xl text-muted-foreground mb-8 max-w-2xl mx-auto leading-relaxed">
             HarvestCycle is a smart integrated platform that converts agro-waste into renewable energy,
             organic fertilizer, and eco-friendly materials — powered by IoT sensors and AI analytics.
           </p>
 
-          <div className="flex flex-wrap gap-4">
+          <div className="flex flex-wrap gap-4 justify-center">
             <Button size="lg" className="text-base px-8" asChild>
               <Link to="/auth">
                 Get Started <ArrowRight className="ml-2 h-5 w-5" />
@@ -39,7 +39,7 @@ export function Hero() {
           </div>
 
           {/* Quick stats */}
-          <div className="grid grid-cols-3 gap-6 mt-16 max-w-lg">
+          <div className="grid grid-cols-3 gap-6 mt-16 max-w-lg mx-auto">
             {[
               { value: "2,500+", label: "Tons Recycled" },
               { value: "1,200+", label: "Farmers Helped" },
