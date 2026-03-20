@@ -5,7 +5,7 @@ export function About() {
     <section id="about" className="py-20 bg-muted/30">
       <div className="container mx-auto px-4">
         <div className="text-center mb-12">
-          <h2 className="text-3xl sm:text-4xl font-bold mb-4 text-foreground">About AgroCycle AI</h2>
+          <h2 className="text-3xl sm:text-4xl font-bold mb-4 text-foreground">About HarvestCycle</h2>
           <p className="text-muted-foreground max-w-2xl mx-auto">
             Bridging the gap between agricultural waste and sustainable value creation through smart technology.
           </p>
@@ -29,7 +29,7 @@ export function About() {
             </div>
             <h3 className="font-semibold text-lg mb-2 text-card-foreground">Our Solution</h3>
             <p className="text-sm text-muted-foreground leading-relaxed">
-              AgroCycle AI transforms waste into bio-briquettes, compost, and eco-paper using
+               HarvestCycle transforms waste into bio-briquettes, compost, and eco-paper using
               integrated processing pathways monitored by IoT sensors and AI.
             </p>
           </div>

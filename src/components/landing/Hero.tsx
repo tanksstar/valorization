@@ -23,7 +23,7 @@ export function Hero() {
           </h1>
 
           <p className="text-lg sm:text-xl text-muted-foreground mb-8 max-w-2xl leading-relaxed">
-            AgroCycle AI is a smart integrated platform that converts agro-waste into renewable energy,
+            HarvestCycle is a smart integrated platform that converts agro-waste into renewable energy,
             organic fertilizer, and eco-friendly materials — powered by IoT sensors and AI analytics.
           </p>
 

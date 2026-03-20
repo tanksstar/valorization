@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { useNavigate, Link } from "react-router-dom";
-import { Leaf, Mail, Lock, User, ArrowRight } from "lucide-react";
+import { Recycle, Mail, Lock, User, ArrowRight } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
@@ -30,9 +30,9 @@ const Auth = () => {
       <div className="absolute inset-0 bg-gradient-to-br from-primary/5 via-background to-secondary/5" />
       <div className="relative z-10 w-full max-w-md">
         <div className="flex items-center justify-center gap-2 mb-8">
-          <Leaf className="h-8 w-8 text-primary" />
+          <Recycle className="h-8 w-8 text-primary" />
           <span className="font-bold text-2xl text-foreground">
-            Agro<span className="text-primary">Cycle</span> AI
+            Harvest<span className="text-primary">Cycle</span>
           </span>
         </div>
 
@@ -71,7 +71,7 @@ const Auth = () => {
 
               <TabsContent value="signup" className="mt-0">
                 <CardTitle className="text-xl mb-1">Create an account</CardTitle>
-                <CardDescription className="mb-6">Get started with AgroCycle AI today</CardDescription>
+                <CardDescription className="mb-6">Get started with HarvestCycle today</CardDescription>
                 <form onSubmit={handleSignup} className="space-y-4">
                   <div className="space-y-2">
                     <Label htmlFor="signup-name">Full Name</Label>
