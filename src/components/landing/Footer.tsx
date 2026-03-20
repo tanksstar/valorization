@@ -41,7 +41,7 @@ export function Footer() {
             <h4 className="font-semibold mb-4">Contact</h4>
             <ul className="space-y-3 text-sm text-background/60">
               <li className="flex items-center gap-2"><MapPin className="h-4 w-4" /> Addis Ababa, Ethiopia</li>
-              <li className="flex items-center gap-2"><Mail className="h-4 w-4" /> info@agrocycleai.com</li>
+              <li className="flex items-center gap-2"><Mail className="h-4 w-4" /> info@harvestcycle.com</li>
               <li className="flex items-center gap-2"><Phone className="h-4 w-4" /> +251 911 123 456</li>
             </ul>
           </div>
