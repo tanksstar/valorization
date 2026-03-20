@@ -7,8 +7,8 @@ export function Footer() {
         <div className="grid md:grid-cols-4 gap-10 mb-12">
           <div>
             <div className="flex items-center gap-2 font-bold text-xl mb-4">
-              <Leaf className="h-6 w-6 text-primary" />
-              AgroCycle AI
+              <Recycle className="h-6 w-6 text-primary" />
+              HarvestCycle
             </div>
             <p className="text-sm text-background/60 leading-relaxed">
               Smart integrated agro-waste valorization system for renewable energy, soil fertility, and circular economic growth.
