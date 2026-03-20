@@ -1,4 +1,4 @@
-import { Leaf, Mail, MapPin, Phone } from "lucide-react";
+import { Recycle, Mail, MapPin, Phone } from "lucide-react";
 
 export function Footer() {
   return (
