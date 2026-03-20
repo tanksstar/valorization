@@ -71,7 +71,7 @@ const Auth = () => {
 
               <TabsContent value="signup" className="mt-0">
                 <CardTitle className="text-xl mb-1">Create an account</CardTitle>
-                <CardDescription className="mb-6">Get started with AgroCycle AI today</CardDescription>
+                <CardDescription className="mb-6">Get started with HarvestCycle today</CardDescription>
                 <form onSubmit={handleSignup} className="space-y-4">
                   <div className="space-y-2">
                     <Label htmlFor="signup-name">Full Name</Label>

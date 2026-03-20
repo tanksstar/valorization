@@ -19,9 +19,9 @@ export function Navbar() {
     <nav className="fixed top-0 left-0 right-0 z-50 bg-background/80 backdrop-blur-md border-b">
       <div className="container mx-auto flex items-center justify-between h-16 px-4">
         <a href="#home" className="flex items-center gap-2 font-bold text-xl">
-          <Leaf className="h-7 w-7 text-primary" />
+          <Recycle className="h-7 w-7 text-primary" />
           <span className="text-foreground">
-            Agro<span className="text-primary">Cycle</span> AI
+            Harvest<span className="text-primary">Cycle</span>
           </span>
         </a>
 

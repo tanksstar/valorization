@@ -33,7 +33,7 @@ const DashboardSettings = () => (
           </div>
           <div className="space-y-2">
             <Label>Organization</Label>
-            <Input defaultValue="AgroCycle Cooperative" />
+            <Input defaultValue="HarvestCycle Cooperative" />
           </div>
           <Button>Save Changes</Button>
         </CardContent>

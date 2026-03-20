@@ -36,10 +36,10 @@ export function DashboardSidebar() {
     <Sidebar collapsible="icon">
       <SidebarHeader className="p-4">
         <div className="flex items-center gap-2">
-          <Leaf className="h-7 w-7 text-sidebar-primary" />
+          <Recycle className="h-7 w-7 text-sidebar-primary" />
           {!collapsed && (
             <span className="font-bold text-lg text-sidebar-foreground">
-              AgroCycle AI
+              HarvestCycle
             </span>
           )}
         </div>

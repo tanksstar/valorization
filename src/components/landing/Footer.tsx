@@ -48,7 +48,7 @@ export function Footer() {
         </div>
 
         <div className="border-t border-background/10 pt-6 text-center text-sm text-background/40">
-          © 2026 AgroCycle AI. All rights reserved. Smart Circular Agriculture for a Sustainable Future.
+          © 2026 HarvestCycle. All rights reserved. Smart Circular Agriculture for a Sustainable Future.
         </div>
       </div>
     </footer>

@@ -29,7 +29,7 @@ export function About() {
             </div>
             <h3 className="font-semibold text-lg mb-2 text-card-foreground">Our Solution</h3>
             <p className="text-sm text-muted-foreground leading-relaxed">
-              AgroCycle AI transforms waste into bio-briquettes, compost, and eco-paper using
+               HarvestCycle transforms waste into bio-briquettes, compost, and eco-paper using
               integrated processing pathways monitored by IoT sensors and AI.
             </p>
           </div>

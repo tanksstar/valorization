@@ -28,7 +28,7 @@ export function SystemInputs() {
         <div className="text-center mb-14">
           <h2 className="text-3xl sm:text-4xl font-bold mb-4 text-foreground">System Inputs</h2>
           <p className="text-muted-foreground max-w-2xl mx-auto">
-            Common agricultural residues that fuel the AgroCycle AI platform.
+            Common agricultural residues that fuel the HarvestCycle platform.
           </p>
         </div>
 

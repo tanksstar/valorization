@@ -15,7 +15,7 @@ export function AccountDropdown() {
       <DropdownMenuContent align="end" className="w-56">
         <DropdownMenuLabel>
           <p className="text-sm font-medium">Abebe Kebede</p>
-          <p className="text-xs text-muted-foreground font-normal">abebe@agrocycle.ai</p>
+          <p className="text-xs text-muted-foreground font-normal">abebe@harvestcycle.com</p>
         </DropdownMenuLabel>
         <DropdownMenuSeparator />
         <DropdownMenuItem onClick={() => navigate("/dashboard/settings")} className="cursor-pointer">
