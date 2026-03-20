@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Link } from "react-router-dom";
-import { Menu, X, Leaf } from "lucide-react";
+import { Menu, X, Recycle } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
 const navLinks = [
